@@ -1,4 +1,5 @@
-V2-Ozel-Npcler-Calisiyor
-========================
+NPCler tamamen fixlenmedi ama onu yapinca paylasicam
 
-V2 Ozel Npcler Calisiyor
+==========================================================================================================
+
+Suan sadece aciliyorlar ve Kecoon olarak gorunuyorlar
